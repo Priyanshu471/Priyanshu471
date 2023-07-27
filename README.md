@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mishrapriyanshu2003@gmail.com**
 
-- ⚡ Fun fact **Did you know that I can speak three languages fluently? C++, HTML and JavaScript! 🌐🎉**
+- ⚡ Fun fact **Did you know that I can speak three languages fluently?     C++, HTML and JavaScript! 🌐🎉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
