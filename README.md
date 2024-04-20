@@ -3,15 +3,15 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"/>
 
-- 🌱 I’m currently learning **ReactJs and ThreeJs**
+- 🌱 I’m currently exploring **Python and GenAI**
 
 - 👨‍💻 All about me at [https://planetarium-myworld.vercel.app](https://planetarium-myworld.vercel.app)
 
-- 💬 Ask me about **ReactJs and Javascript**
+- 💬 Ask me about **MERN and NextJs**
 
 - 📫 How to reach me **mishrapriyanshu2003@gmail.com**
 
-- ⚡ Fun fact **Did you know that I can speak three languages fluently?     C++, HTML and JavaScript! 🌐🎉**
+- ⚡ Fun fact **Did you know that I can speak three languages fluently?     C++, JavaScript and TypeScript! 🌐🎉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
